@@ -18,11 +18,13 @@ Como o curso será distribuído?
 
 Conteúdo programático:
 
--> Conceito de algoritmo
-
---> Exercício 001 em Java
-
+-> Conceito de algoritmo 
+- https://youtu.be/dNZJQL7vnso
+- https://youtu.be/q6KMIQn2OAY
+--> Exercício 001 em Java 
+- https://youtu.be/ja4AvCSv_Ak
 --> Exercício 001 em PHP
+- https://youtu.be/tlnFknUxNhw
 
 Disponibilização do curso no YouTube em vídeo aula no YouTube no canal @cecanho, se inscrevam, curtam e compartilhem.
 Canal: https://www.youtube.com/@cecanho
