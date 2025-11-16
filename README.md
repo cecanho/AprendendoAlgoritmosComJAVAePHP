@@ -9,13 +9,19 @@ O objetivo do curso é ir além do momento sala de aula e aplicar a lógica de a
 de Pascal e C com base em um algoritmo estruturado. 
 
 Como o curso será distribuído?
+
 -> Enunciado do algoritmo e exercício resolvido em português estruturado.
+
 -> Resolução em JAVA dentro do Eclipse.
+
 -> Resolução em PHP e HTML no VS Code Studio no servidor XAMPP.
 
 Conteúdo programático:
+
 -> Conceito de algoritmo
+
 --> Exercício 001 em Java
+
 --> Exercício 001 em PHP
 
 Disponibilização do curso no YouTube em vídeo aula no YouTube no canal @cecanho, se inscrevam, curtam e compartilhem.
