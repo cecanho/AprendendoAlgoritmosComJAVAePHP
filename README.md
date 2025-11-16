@@ -21,8 +21,10 @@ Conteúdo programático:
 -> Conceito de algoritmo 
 - https://youtu.be/dNZJQL7vnso
 - https://youtu.be/q6KMIQn2OAY
+  
 --> Exercício 001 em Java 
 - https://youtu.be/ja4AvCSv_Ak
+  
 --> Exercício 001 em PHP
 - https://youtu.be/tlnFknUxNhw
 
