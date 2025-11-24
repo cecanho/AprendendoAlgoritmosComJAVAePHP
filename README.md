@@ -28,5 +28,15 @@ Conteúdo programático:
 --> Exercício 001 em PHP
 - https://youtu.be/tlnFknUxNhw
 
+-> Ordem de precedência
+- https://youtu.be/KuWmqf0ol4M
+- https://youtu.be/xph-5QA71Sg
+
+--> Exercício 002 em Java
+- https://youtu.be/o8SrUTlUzMI
+
+--> Exercício 002 em PHP
+- https://youtu.be/kTe7iWJlsnc
+
 Disponibilização do curso no YouTube em vídeo aula no YouTube no canal @cecanho, se inscrevam, curtam e compartilhem.
 Canal: https://www.youtube.com/@cecanho
