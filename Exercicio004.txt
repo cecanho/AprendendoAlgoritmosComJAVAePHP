@@ -1,0 +1,12 @@
+algoritmo "Exercicio 004"
+
+var
+  Real: temperatura, febre;
+
+inicio
+  febre <- 37;
+  temperatura <- 36,8;
+  se temperatura >= febre entao
+    Escreval("Paciente com Febre!");
+  fimse;
+fimalgoritmo
