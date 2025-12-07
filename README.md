@@ -30,7 +30,10 @@ de Pascal e C com base em um algoritmo estruturado.</p>
 <li><a href="https://youtu.be/kTe7iWJlsnc">Exercício 002 em PHP</a></li>
 <li><a href="https://youtu.be/EWM3JszpPvw">Algoritmo Média Aritmética</a></li> 
 <li><a href="https://youtu.be/To72dzPKgYc">Exercício 003 em Java</a></li>
-<li><a href="https://youtu.be/dXw15Fxqqr4">Exercício 003 em PHP</a></li>   
+<li><a href="https://youtu.be/dXw15Fxqqr4">Exercício 003 em PHP</a></li>  
+<li><a href="https://youtu.be/a1npPlTB_aI">Estrutura de seleção(decisão)</a></li> 
+<li><a href="https://youtu.be/T9dCtxCeXvA">Exercício 004 e 005 em Java</a></li>
+<li><a href="https://youtu.be/GwjjYqGRuZc">Exercício 004 e 005 em PHP</a></li>  
 </ul>
 
 <h2> Sobre </h2>
