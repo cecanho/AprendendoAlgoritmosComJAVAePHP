@@ -1,0 +1,18 @@
+Algoritmo "Exercicio005"
+
+var
+  Inteiro: num;
+inicio
+  num <- 17;
+  se (num mod 2 ) = 0 entao
+    Escreval("O numero e par");
+  senao
+    Escreval("O numero e impar");
+  fimse;
+fimalgoritmo
+
+10 / 2 = 5
+0
+
+17 / 2 = 8
+1
