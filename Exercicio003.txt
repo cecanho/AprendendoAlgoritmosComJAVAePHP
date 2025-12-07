@@ -1,0 +1,15 @@
+Algoritmo "CalcularAMedia4Numeros"
+
+var
+   real: NUM1, NUM2, NUM3, NUM4, MA
+
+inicio
+   NUM1 <- 5
+   NUM2 <- 3
+   NUM3 <- 8
+   NUM4 <- 10
+
+   MA <- (NUM1 + NUM2 + NUM3 + NUM4) / 4
+
+  Escreval("A media e: ", MA)
+fimalgoritmo
