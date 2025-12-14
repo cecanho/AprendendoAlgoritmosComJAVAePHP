@@ -1,0 +1,14 @@
+Algoritmo "Exercicio007";
+
+var
+  literal: senha, palavra;
+
+inicio
+  senha <- "123456";
+  Escreval("Entre com a senha:");
+  Leia(palavra);
+  
+  se(palavra = senha) entao
+    Escreval("Acesso Garantido");
+  fimse;
+fimalgoritmo

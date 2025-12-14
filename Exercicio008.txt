@@ -1,0 +1,27 @@
+Algoritmo "Exercicio008"
+
+var
+  inteiro: idadeP1, idadeP2;
+  literal: nomeP1, nomeP2;
+
+inicio
+  Escreval("Entre com o nome da 1 pessoa:");
+  Leia(nomeP1);
+  Escreval("Entre com a idade da 1 pessoa:");
+  Leia(idadeP1);  
+  
+  Escreval("Entre com o nome da 2 pessoa:");
+  Leia(nomeP2);
+  Escreval("Entre com a idade da 2 pessoa:");
+  Leia(idadeP2);
+
+  se (idadeP1 > idadeP2) entao
+    Escreval(nomeP1);
+  senao se (idadeP2 > idadeP1) entao
+          Escreval(nomeP2);
+        senao
+          Escreval("Pessoas com a mesma idade");
+        fimse;
+  fimse;
+
+fimalgoritmo

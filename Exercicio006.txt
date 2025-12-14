@@ -1,0 +1,13 @@
+Algoritmo "Exercicio006";
+
+var
+  inteiro: idade;
+
+inicio
+  Escreval("Entre com a idade:");
+  Leia(idade);
+  
+  se(idade < 18) entao
+    Escreval("Menor de idade");
+  fimse;
+fimalgoritmo
