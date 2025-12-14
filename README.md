@@ -34,6 +34,9 @@ de Pascal e C com base em um algoritmo estruturado.</p>
 <li><a href="https://youtu.be/a1npPlTB_aI">Estrutura de seleção(decisão)</a></li> 
 <li><a href="https://youtu.be/T9dCtxCeXvA">Exercício 004 e 005 em Java</a></li>
 <li><a href="https://youtu.be/GwjjYqGRuZc">Exercício 004 e 005 em PHP</a></li>  
+<li><a href="https://youtu.be/-B_Ikbu8z2A">Estrutura de seleção(decisão) fluxos alternativos</a></li> 
+<li><a href="https://youtu.be/ZGOBQ5D6K_8">Exercício 006, 007 e 008 em Java</a></li>
+<li><a href="https://youtu.be/OIHdm3QrHR0">Exercício 006, 007 e 008 em PHP</a></li>  
 </ul>
 
 <h2> Sobre </h2>
