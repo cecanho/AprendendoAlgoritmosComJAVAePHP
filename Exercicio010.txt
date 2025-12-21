@@ -1,0 +1,18 @@
+Algoritmo "Exercicio010";
+
+var 
+  inteiro: C1, C2, C3;
+
+inicio
+  Escreval("Informe 1 o valor do lado");
+  Leia(C1);
+  Escreval("Informe 2 o valor do lado");
+  Leia(C2);
+  Escreval("Informe 3 o valor do lado");
+  Leia(C3);
+  se ((C1 + C2) > C3) e ((C1 + C3) > C2) e ((C2 + C3) > C1) entao
+    Escreval("Os tres lados formam um triangulo");
+  senao
+    Escreval("Os tres lados nao formam um triangulo");
+  fimse;
+fimalgoritmo
