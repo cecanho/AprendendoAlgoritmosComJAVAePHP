@@ -40,6 +40,7 @@ de Pascal e C com base em um algoritmo estruturado.</p>
 <li><a href="https://youtu.be/CLBWi2s_GE0">Estrutura de seleção(decisão) Operadores e Tabela Verdade</a></li> 
 <li><a href="https://youtu.be/zZd0bB_GbJo">Exercício 009 e 010 em Java</a></li>
 <li><a href="https://youtu.be/PYtXHdIQ1-4">Exercício 009 e 010 em PHP</a></li> 
+<li><a href="https://youtu.be/zy_yxTq9C-Y">Exercício 011 e 012 em PHP</a></li> 
 </ul>
 
 <h2> Sobre </h2>
