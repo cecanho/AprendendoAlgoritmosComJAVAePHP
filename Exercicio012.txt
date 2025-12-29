@@ -1,0 +1,12 @@
+Algoritmo "Exercicio012";
+
+var
+  inteiro: B, H ;
+
+inicio
+  Escreval("Informe a base do triangulo");
+  Leia(B);
+  Escreval("Informe a altura do triangulo");
+  Leia(H);
+  Escreval("A area do triangulo e:", B*H/2);
+fimalgoritmo.

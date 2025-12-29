@@ -1,0 +1,15 @@
+Algoritmo "Exercicio013";
+
+var
+  inteiro: N;
+
+inicio
+  Escreval("Entre com um numero maior que 100");
+  Leia(N);
+
+  se(N > 100)entao
+    Escreval("VOCE CONSEGUIU!");
+  senao
+    Escreval(N, " nao maior que 100");
+  fimse;
+fimalgoritmo.

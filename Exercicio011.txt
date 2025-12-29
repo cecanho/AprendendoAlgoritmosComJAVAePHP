@@ -1,0 +1,26 @@
+Algoritmo "Exercicio011";
+
+var
+  inteiro: L1, L2, L3;
+
+inicio
+  Escreval("Entre com um lado do triangulo:");
+  Leia(L1);
+  Escreval("Entre com um lado do triangulo:");
+  Leia(L2);
+  Escreval("Entre com um lado do triangulo:");
+  Leia(L3);
+  
+  se(((L1+L2)>L3)e((L1+L3)>L2)e((L2+L3)>L1))entao
+    se((L1=L2)e(L2=L3)entao
+      Escreval("Triangulo Equilatero");
+    senao se(((L1=L2)e(L1<>L3))ou((L1=L3)e(L1<>L2))ou((L2=L3)e(L2<>L1)))entao
+            Escreval("Triangulo Isosceles");
+          senao
+            Escreval("Triangulo Escaleno");
+          fimse;
+    fimse;
+  senao
+    Escreval("Os lados informados nao formam um triangulo");
+  fimse;
+fimalgoritmo.

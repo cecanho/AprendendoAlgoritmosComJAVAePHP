@@ -1,0 +1,19 @@
+Algoritmo "Exercicio014";
+
+var
+  inteiro: N1, N2;
+
+inicio
+  Escreval("Entre com um valor");
+  Leia(N1);
+  Escreval("Entre com um valor");
+  Leia(N2);
+  se (N1 > N2) entao
+    Escreval(N1, " e maior que ", N2);
+  senao se(N2 > N1) entao
+          Escreval(N2, " e maior que ", N1);
+        senao
+          Escreval("IGUAIS");
+        fimse;
+  fimse;
+fimalgoritmo.
