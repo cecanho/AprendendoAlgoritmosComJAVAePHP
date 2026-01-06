@@ -44,6 +44,7 @@ de Pascal e C com base em um algoritmo estruturado.</p>
 <li><a href="https://youtu.be/Z-C9mRaB2eI">Exercício 013, 014 e 015</a></li>
 <li><a href="https://youtu.be/3eI2x9A8YNg">Exercício 011, 012, 013, 014 e 015 em Java</a></li>
 <li><a href="https://youtu.be/jCGUysVnG-s">Exercício 011, 012, 013, 014 e 015 em PHP</a></li>
+<li><a href="https://youtu.be/exucKqqkGbA">Estrutura Escolha</a></li>
 </ul>
 
 <h2> Sobre </h2>
