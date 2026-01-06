@@ -1,0 +1,43 @@
+Algoritmo "Exercicio016";
+
+var
+  real: L1, L2, PI, R;
+  inteiro: OPCAO;
+
+inicio
+  Escreval("Menu (escolha uma opcao):");
+  Escreval("1 - Quadrado (L * L)");
+  Escreval("2 - Retangulo (L * L)");
+  Escreval("3 - Circulo (PI * r^2)");
+  Escreval("4 - Triangulo (b * h / 2)");
+  Escreval("0 - Sair");
+  Leia(OPCAO);
+
+  escolha(OPCAO):
+    caso 1:
+           Escreval("Entre com o lado do quadrado:");
+	   Leia(L1);
+	   Escreval("A area do quadrado e: ", L1 * L1);
+    caso 2:
+	   Escreval("Entre com o lado do retangulo:");
+	   Leia(L1);
+	   Escreval("Entre com o lado do retangulo:");
+	   Leia(L2);
+	   Escreval("A area do retangulo e: ", L1 * L2);
+    caso 3:
+	   Escreval("Entre com o raio (r) do circulo:");
+   	   Leia(R);
+           PI <- 3,14;	
+           Escreval("A area do circulo e: ", PI * R^2);
+    caso 4:
+   	   Escreval("Entre com a base (b) do triangulo:");
+	   Leia(L1);
+   	   Escreval("Entre com a altura (h) do triangulo:");
+	   Leia(L2);
+	   Escreval("A area do triangulo e: ", L1*L2/2);
+    caso 0:
+	   Escreval("Bye!");
+    outrocaso:
+	   Escreval("Opcao Invalida!");
+  fimescolha;
+fimalgoritmo;
