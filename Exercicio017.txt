@@ -1,0 +1,12 @@
+Algoritmo "Exercicio 017";
+
+var
+  inteiro: V, IMPARES;
+
+inicio
+  IMPARES <- 0;
+  para V de 5 ate 36 passo 2 faca:
+	IMPARES <- IMPARES + 1;
+  fimpara;
+  Escreval("Temos ", IMPARES, " de 5 a 36"); 
+fimalgoritmo;
