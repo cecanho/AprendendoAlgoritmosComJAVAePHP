@@ -1,0 +1,15 @@
+Algoritmo "Exercicio018";
+
+var
+  inteiro: N, SOMA, ACUM;
+
+inicio
+  Escreval("A soma deve ir até qual numero:");
+  Leia(N);
+  SOMA <- 0;
+  para ACUM de 1 ate N faca:
+    SOMA <- SOMA + ACUM;
+  fimpara;
+  Escreval("A soma dos num. naturais 
+                   e igual a: ", SOMA);
+fimalgoritmo;
