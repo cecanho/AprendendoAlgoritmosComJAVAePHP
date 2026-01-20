@@ -48,7 +48,8 @@ de Pascal e C com base em um algoritmo estruturado.</p>
 <li><a href="https://youtu.be/F1kAuTnc2WA">Exercicio 016 em PHP</a></li>
 <li><a href="https://youtu.be/e5DBnqIrY9A">Estrutura de repetição e Exercicio 017</a></li>
 <li><a href="https://youtu.be/9Dgx3q3ofl0">Estrutura de repetição e Exercicio 017 em Java</a></li>
-<li><a href="https://youtu.be/UzCjq6qFz6Y">Estrutura de repetição e Exercicio 017 em PHP</a></li>
+<li><a href="https://youtu.be/UzCjq6qFz6Y">Estrutura de repetição e Exercicio 017 em PHP</a>
+<li><a href="https://youtu.be/N6QUjbUojhg">Exercicio 018</a></li>
 </ul>
 
 <h2> Sobre </h2>
