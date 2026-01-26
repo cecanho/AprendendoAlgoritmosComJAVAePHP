@@ -1,0 +1,12 @@
+Algoritmo "Exercicio020";
+
+var
+  inteiro: incremento;
+
+inicio
+  incremento <- 0;
+  enquanto(incremento < 10)faca:
+    Escreval(incremento);
+    incremento <- incremento + 1;
+  fimenquanto;
+fimalgoritmo.

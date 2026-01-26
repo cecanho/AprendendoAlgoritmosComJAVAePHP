@@ -1,0 +1,24 @@
+Algoritmo "Exercicio021";
+
+var
+  literal: controle;
+  inteiro: N, quantidade, soma;
+
+inicio
+  quantidade <- 0;
+  soma <- 0;
+  enquanto(controle <> 's')faca:
+    Escreval("Entre com um número inteiro:");
+    Leia(N);
+    soma <- soma + N;
+    quantidade <- quantidade + 1;
+    Escreval("Digite s para parar:");
+    Leia(controle);
+  fimenquanto;
+  Escreval("A media dos numeros 
+       lidos e:", soma/quantidade);
+  Escreval("A quantidade de numeros
+       lidos foi:", quantidade);
+  Escreval("A soma dos numeros
+       lidos foi:", soma);
+fimalgoritmo.

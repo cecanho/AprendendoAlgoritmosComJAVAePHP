@@ -1,0 +1,16 @@
+Algoritmo "Exercicio019";
+
+var 
+  inteiro: ACUM;
+  real: SOMA, NOTA;
+
+inicio
+  SOMA <- 0;
+  para ACUM de 1 ate 30 faca:
+    Escreval("Entre com a nota do aluno");
+    Leia(NOTA);
+    SOMA <- SOMA + NOTA;
+  fimmpara;
+  Escreval("A media das notas dos 
+               alunos e igual a: ", SOMA/30);
+fimalgoritmo;
