@@ -1,0 +1,12 @@
+Algoritmos "Exercicio022";
+
+var
+  inteiro: incremento;
+inicio
+  incremento <- 0;
+  repita
+   Escreval(incremento);
+   incremento <- incremento + 1;
+  ate(incremento > 10);
+  fimrepita;
+fimalgoritmo.

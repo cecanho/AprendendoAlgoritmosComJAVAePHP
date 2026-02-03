@@ -1,0 +1,11 @@
+Algoritmos "Exercicio023";
+
+var
+  literal : op;
+inicio
+  repita
+   Escreval("Digite um nome, ou s para sair");
+   leia(op);
+  ate(op = "s");
+  fimrepita;
+fimalgoritmo.
