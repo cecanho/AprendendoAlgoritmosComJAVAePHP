@@ -56,6 +56,8 @@ de Pascal e C com base em um algoritmo estruturado.</p>
 <li><a href="https://youtu.be/2iqfFoYVaRY">Estrutura de repetição Enquanto com exercício 20 e 21 em JAVA</a></li> 
 <li><a href="https://youtu.be/E9IsRErcFlc">Estrutura de repetição Enquanto com exercício 20 e 21 em PHP</a></li>
 <li><a href="https://youtu.be/CuyGJRklat4">Estrutura de repetição Repíta .. até</a></li>
+<li><a href="https://youtu.be/DT4sDSjRbCU">Estrutura de repetição Repíta .. até em Java</a></li>
+<li><a href="https://youtu.be/xmDV4baTEPQ">Estrutura de repetição Repíta .. até em PHP</a></li>
 </ul>
 
 <h2> Sobre </h2>
